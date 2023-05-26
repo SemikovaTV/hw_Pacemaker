@@ -40,3 +40,19 @@ Corosync программный продукт, позволяющий реал�
 Соберите модель, состоящую из двух виртуальных машин. Установите Pacemaker, Corosync, Pcs. Настройте HA кластер.
 
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs1.jpg)
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs2.jpg)
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs3.jpg)
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs4.jpg)
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs5.jpg)
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs6.jpg)
+![alt text](https://github.com/SemikovaTV/hw_Pacemaker/blob/main/pcs7.jpg)
+
+
+
+
+
+
+
+
+
